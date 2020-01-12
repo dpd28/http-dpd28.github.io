@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## I’m Deb.
 
-### More Information
+I’m a designer dividing my time between Upstate New York and Miami, Florida while I finish up MFA coursework at The University of Miami.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[Learn more about me](https://www.deb.is/) »
